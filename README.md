@@ -1,5 +1,5 @@
 # 💫 About Me:
-I' m Surya V, a Recent Graduate form christ University <br>
+I' m Surya V, a Recent Graduate from christ University <br>
 I' m currently working on Docker related projects <br>I'm Full stack developer and Life long learner<br>I'm good at DSA <br>I'm open to collabrate on Javascripts, React, Spring Boot, Docker Setup, AI & ML 
 
 
