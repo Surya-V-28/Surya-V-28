@@ -1,6 +1,6 @@
 # 💫 About Me:
 I'm Surya V <br>
-I'm currently working on Docker related projects <br>I'm Full stack developer and Life long learner<br>I'm good at DSA <br>I'm open to collabrate on Javascripts, React, Spring Boot, Docker Setup, AI & ML 
+I'm currently working on Docker Optimization and Spring Boot Backend Developement <br>I'm Full stack developer and Life long learner<br>I Love to do Open soruce  <br>I'm open to collabrate on Javascripts, React, Spring Boot, Docker Setup, AI & ML 
 
 
 ## 🌐 Socials:
